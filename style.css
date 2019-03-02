@@ -1,0 +1,189 @@
+/*
+font-family: 'Muli', sans-serif;
+    font-family: 'Lora', serif;
+*/
+
+
+
+
+
+/*body{
+    font-family: 'Muli', sans-serif;  
+    overflow-x: hidden ;
+}
+
+
+
+/*        navigation-----------*
+.nav-wrapper{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;    
+}
+.logo{
+    font-size: 22px;
+    color: #041122;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.navigation{
+    font-size: 22px;
+    font-weight: 600px;
+    text-align: center;
+}
+.navigation_link{
+  color: #52575d;  
+  text-decoration: none;
+  margin-right: 30px;
+  padding:40px ;
+}
+.navigation_link:hover, .navigation_link:active, .navigation_link:focus{
+color: #f72464;
+text-decoration: none;
+}
+
+.cart{
+    padding-top: 5px;
+    color: #5e5e5e;
+    position: relative;
+}
+.cart__namber{
+    width:13px ;
+    height: 13px;
+    background-color: #f72464;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 8px;
+    font-weight: 600px;
+    text-align: center;
+    padding-top: 1px;
+    position: absolute;
+    left: 7px;
+    top: 15px;
+}
+
+
+/*-----------------------------
+         /*header
+--------------------*
+.header{
+    position: relative; 
+    height:auto;
+    display: flex; 
+     
+    align-items: center;
+}
+.header__container{
+  position: relative; 
+  height:100vh; 
+  display: flex;
+  flex-direction: column; 
+}
+
+/*------img------------*
+.header__bg{       
+    position: absolute;
+    width: 55%;
+    left: 50%;
+    height: 100%;
+    top:0 ;     
+    background-color:#f9f9f9;
+    background-image: url(JAGUAR.jpg);
+    background-repeat: no-repeat;
+    background-position:  left top;
+    z-index: -1;
+}
+
+.header__title{
+    color: #222;
+    font-size: 80px;
+    font-family: 'Lora', serif;
+    line-height: 1.25;/*высота строки*
+   margin-top: 100px;
+}
+.header__description{
+    color: #52575d;
+    font-size: 30px;
+    font-weight: 300;
+}
+.header__button{
+    background-color: #e41452;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Lora', serif;
+    display: inline-block;
+    margin-top: 120px;
+    height: 35px;
+     width: 175px; 
+    padding-left: 45px;
+    padding-right: 45px;   
+    padding-top: 8px;   
+    border-radius: 3px;
+    line-height: 1;
+    box-shadow: 0px 5px 30px 0px rgba(31, 35, 37, 0.3);
+    text-decoration: none;    
+}
+.header__button:hover{
+    background-color: hsl(342, 87%, 34%);
+    text-decoration: none;
+    box-shadow: 0px 5px 30px 0px rgba(31, 35, 37, 0.4);
+    transition: all 0.2s ease-in;
+    color: #fff;    
+}
+/*        content-----------*
+.section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.title{
+    font-size: 35px;
+    color: #222;
+    font-family: 'Muli', sans-serif; 
+    margin: 0 0 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-weight: 600px;
+}
+.subtitle{
+    font-size: 12px;
+    color: #919191;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 90px;
+}
+/*        content-----------*
+.card{
+height: 100%;
+}
+.card__image img{
+    float: right;
+width: 40%;
+height: 40%;
+border: 1px solid red;
+margin:20px 0 20px 50px ;
+ 
+
+}
+.card__title{
+color: #222;
+font-family: 'Muli', sans-serif; 
+font-size: 18px;
+margin-bottom: 5px;
+font-weight: 600;
+}
+.cart__price{
+      
+    font-size: 13px;
+color: #f72464;
+font-weight: 600px;
+
+}
+.cart__price span{
+    color: #83888f;
+    text-decoration: line-through;
+    margin-right: 5px;
+}
+.cart__price p{   
+
+}*/
